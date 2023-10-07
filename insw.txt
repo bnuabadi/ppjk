@@ -1,0 +1,1 @@
+# Apabila dalam 1 kontainer terdiri 3 BL, (walaupun milik 1 perusahaan) harus dibuat 3 PIB LCL dan jangan mencabtumkan Nomor Kontainer. Pengeluarnnya menggunakan Part Off
