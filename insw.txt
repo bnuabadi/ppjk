@@ -1,2 +1,3 @@
 # Apabila dalam 1 kontainer terdiri 3 BL, (walaupun milik 1 perusahaan) harus dibuat 3 PIB LCL dan jangan mencabtumkan Nomor Kontainer. Pengeluarnnya menggunakan Part Off
 # Karena ada posibility perbedaan penulisan kemasan antara shipping line dan importir (Manifest - PIB), BC tidak melakukan validasi atas jumlah kemasan.
+# 1 mata uang untuk 1 deklarasi pabean....gunakan mata uang Harga Barang
